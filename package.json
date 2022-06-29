@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "eslint": "^8.18.0",
+    "jest": "^28.1.2",
+    "prettier": "^2.7.1"
+  }
+}
